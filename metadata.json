@@ -1,0 +1,6 @@
+{
+  "name": "UrbanClothing",
+  "description": "Fictional premium casual wear, trendy streetwear, and timeless essentials designed for modern lifestyles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
