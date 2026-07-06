@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dummy-1veh.vercel.app/sitemap.xml
