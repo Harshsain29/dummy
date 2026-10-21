@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { ArrowRight, Star, ShieldCheck, Truck, RefreshCw, Lock, Sparkles, AlertCircle } from "lucide-react";
 import { Product } from "../types";

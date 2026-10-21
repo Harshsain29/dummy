@@ -14,7 +14,7 @@ export const PRODUCTS: Product[] = [
     },
     material: "80% Cotton, 20% Polyester",
     description: "Comfortable oversized hoodie perfect for everyday wear, designed with a drop shoulder silhouette, double-layered hood, and soft brushed interior.",
-    image: "/src/assets/images/hoodie_product_1781761923090.jpg",
+    image: "https://m.media-amazon.com/images/I/41Au0sc+l2L._AC_UY1100_.jpg",
     category: "New Arrivals",
     rating: 4.8
   },
@@ -31,7 +31,7 @@ export const PRODUCTS: Product[] = [
     },
     material: "Cotton Blend",
     description: "Functional cargo pants with modern streetwear styling. Features multi-pocket utility compartments, relaxed tapered fit, and premium durable drawstring cuffs.",
-    image: "/src/assets/images/cargo_product_1781761938103.jpg",
+    image: "https://assets.myntassets.com/w_412,q_50,,dpr_3,fl_progressive,f_webp/assets/images/2025/FEBRUARY/18/p6qKdE44_bb43a58ae7b847be9b6e3905e3e53b12.jpg",
     category: "Men's Collection",
     rating: 4.6
   },
@@ -47,7 +47,7 @@ export const PRODUCTS: Product[] = [
     },
     material: "100% Cotton",
     description: "Soft premium t-shirt featuring exclusive UrbanClothing artwork printed with eco-friendly ink. Heavyweight premium cotton provides structured shape and ultimate comfort.",
-    image: "/src/assets/images/graphic_tee_product_1781761952621.jpg",
+    image: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ0zYgvuKiiPZjy3T_QTfii8X60RiB8pqUG7x_6Ag-Ty5Tg3sgknstAVxeF3w_5bcsDJ7eOkbW1XVDf3KiETIQhCF11dxWZpfBFJMfwDhEiiHAHxupBVXepeQ",
     category: "New Arrivals",
     rating: 4.7
   },
@@ -62,7 +62,7 @@ export const PRODUCTS: Product[] = [
     },
     material: "Premium Denim",
     description: "A versatile jacket designed for all seasons. Features a classic collared neckline, structured heavy washed denim feel, and custom metallic hardware for a timeless streetwear flair.",
-    image: "/src/assets/images/denim_jacket_product_1781761968324.jpg",
+    image: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRH4VW_2TG-0JadgUFPIIQqAeSXk-Dl6V5dyWZazposkBtHL1gEBubZ4Mk0bYBn-U9tWBqRk3qtrrLtAlhkxVjCBMMuz1hMLW3cwzFYJmK_",
     category: "Women's Collection",
     rating: 4.9
   },
@@ -78,7 +78,7 @@ export const PRODUCTS: Product[] = [
     },
     material: "Water-Resistant Premium Poly-Nylon",
     description: "Modern backpack suitable for work, travel, and everyday use. Includes an integrated 15-inch padded laptop sleeve, hidden security pocket, and ergonomic shoulder straps.",
-    image: "/src/assets/images/backpack_product_1781761982458.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9YblYujkMN3I7AILku9Q3MSshRuqO5rLMImtoln8tzPBmFRrY7rPeVHx00vmGt6gNc49d3RwHYFLn6h4AVskag1nLzDZ6X7v-ByOepqFpufvfO-SwT8EwWg",
     category: "Accessories",
     rating: 4.5
   }
