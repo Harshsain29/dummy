@@ -122,7 +122,7 @@ export default function Home({ onProductClick }: HomeProps) {
             if (idx === 0) altTag = `${cat.name} and streetwear tshirt options`;
             if (idx === 1) altTag = `${cat.name} under streetwear india tags`;
             if (idx === 3) altTag = `${cat.name} streetwear jacket options`;
-
+            console.log(cat.image);
             return (
               <div
                 key={cat.name}
